@@ -1,0 +1,28 @@
+.yellow{
+    background: #e3ea62;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+}
+.green{
+    background: #85ea74;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+}
+.pink{
+    background: #f09eac;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+}
+.purple{
+    background: #904690;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+}
